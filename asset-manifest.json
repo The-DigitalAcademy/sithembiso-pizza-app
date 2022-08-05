@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/sithembiso-pizza-app/static/css/main.073c9b0a.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.7f8459bd.js",
+    "main.css": "/sithembiso-pizza-app/static/css/main.93b1b1f1.css",
+    "main.js": "/sithembiso-pizza-app/static/js/main.1e09aba0.js",
+    "static/media/pizzaLeft.jpeg": "/sithembiso-pizza-app/static/media/pizzaLeft.24b07891fef1c8dae848.jpeg",
+    "static/media/vegan.jpeg": "/sithembiso-pizza-app/static/media/vegan.52cbfe9e6f8d75e18f8b.jpeg",
+    "static/media/pizza.jpeg": "/sithembiso-pizza-app/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/sithembiso-pizza-app/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/sithembiso-pizza-app/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpeg": "/sithembiso-pizza-app/static/media/expensive.6449ceefce083d18dfef.jpeg",
+    "static/media/pepperoni.jpeg": "/sithembiso-pizza-app/static/media/pepperoni.d173e5db8dacdf1324ed.jpeg",
+    "static/media/pineapple.jpeg": "/sithembiso-pizza-app/static/media/pineapple.a01ab9be389f0e6bd6ec.jpeg",
+    "static/media/margherita.jpeg": "/sithembiso-pizza-app/static/media/margherita.683bc9bb07f9ff0d82df.jpeg",
+    "static/media/pedrotechspecial.jpeg": "/sithembiso-pizza-app/static/media/pedrotechspecial.425951cb0e484775fd4c.jpeg",
     "index.html": "/sithembiso-pizza-app/index.html",
-    "main.073c9b0a.css.map": "/sithembiso-pizza-app/static/css/main.073c9b0a.css.map",
-    "main.7f8459bd.js.map": "/sithembiso-pizza-app/static/js/main.7f8459bd.js.map"
+    "main.93b1b1f1.css.map": "/sithembiso-pizza-app/static/css/main.93b1b1f1.css.map",
+    "main.1e09aba0.js.map": "/sithembiso-pizza-app/static/js/main.1e09aba0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7f8459bd.js"
+    "static/css/main.93b1b1f1.css",
+    "static/js/main.1e09aba0.js"
   ]
 }
