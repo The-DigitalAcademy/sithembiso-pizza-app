@@ -7,8 +7,14 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <FacebookIcon /> 
-        <WhatsApp />
+        <a href="https://www.facebook.com/ target = _blank">
+          <FacebookIcon />
+        </a>
+         
+        <a href="https://web.whatsapp.com/ target = _blank">
+          <WhatsApp />
+        </a>
+        
       </div>
       <p> &copy; 2022 ssithembisosifisopizza@gmail.com</p>
     </div>

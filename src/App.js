@@ -16,8 +16,8 @@ function App() {
         <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/menu" exact component={Menu} />
-        <Route path="about" exact component={About} />
-        <Route path="contact" exact component={Contact} />
+        <Route path="/about" exact component={About} />
+        <Route path="/contact" exact component={Contact} />
         </Switch>
 
         <Footer />
@@ -30,15 +30,3 @@ function App() {
 }
 
 export default App;
-
-
-{/* <Router>
-        <Navbar />
-       
-          <Route path="/" exact component={Home} />
-          <Route path="/menu" exact component={Menu} />
-          <Route path="/about" exact component={About} />
-          <Route path="/contact" exact component={Contact} />
-        
-        <Footer />
-      </Router> */}

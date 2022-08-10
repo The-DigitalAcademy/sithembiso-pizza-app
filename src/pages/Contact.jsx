@@ -1,5 +1,5 @@
 import React from "react";
-import PizzaLeft from "../assets/pizzaLeft.jpeg";
+import debonairspizza from "../assets/debonairspizza.jpeg";
 import "../styles/Contact.css";
 
 function Contact() {
@@ -7,8 +7,9 @@ function Contact() {
     <div className="contact">
       <div
         className="leftSide"
-        style={{ backgroundImage: `url(${PizzaLeft})` }}
+        style={{ backgroundImage: `url(${debonairspizza})` }}
       ></div>
+      
       <div className="rightSide">
         <h1> Contact Us</h1>
 

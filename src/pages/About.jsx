@@ -1,5 +1,5 @@
 import React from "react";
-import MultiplePizzas from "../assets/multiplePizzas.jpeg";
+import Pizzawors from "../assets/pizzawors.jpeg";
 import "../styles/About.css";
 
 function About() {
@@ -7,24 +7,16 @@ function About() {
     <div className="about">
       <div
         className="aboutTop"
-        style={{ backgroundImage: `url(${MultiplePizzas})` }}
+        style={{ backgroundImage: `url(${Pizzawors})` }}
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+          We are committed to satisfying customer needs and expectations by giving them amazing pizza with the best quality and customer service.
+
+          Choose Pizza for any occasion, whether you’re having dinner with the family or watching a football game with friends, we give you the best experience bursting with flavour.
+
+          We pride ourselves in delivering hot, fresh pizza no matter where you’re having it. Try something amazing, try Pizza!
         </p>
       </div>
     </div>
