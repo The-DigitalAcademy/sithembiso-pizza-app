@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sithembiso-pizza-app/static/css/main.355c3c08.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.44b878be.js",
+    "main.js": "/sithembiso-pizza-app/static/js/main.47b4da7b.js",
     "static/media/pizzaLeft.jpeg": "/sithembiso-pizza-app/static/media/pizzaLeft.24b07891fef1c8dae848.jpeg",
     "static/media/pizza.avif": "/sithembiso-pizza-app/static/media/pizza.f2bcb74a70fee68eb15b.avif",
     "static/media/vegan.jpeg": "/sithembiso-pizza-app/static/media/vegan.52cbfe9e6f8d75e18f8b.jpeg",
@@ -14,10 +14,10 @@
     "static/media/Triple.webp": "/sithembiso-pizza-app/static/media/Triple.c57fe0c020075754305a.webp",
     "index.html": "/sithembiso-pizza-app/index.html",
     "main.355c3c08.css.map": "/sithembiso-pizza-app/static/css/main.355c3c08.css.map",
-    "main.44b878be.js.map": "/sithembiso-pizza-app/static/js/main.44b878be.js.map"
+    "main.47b4da7b.js.map": "/sithembiso-pizza-app/static/js/main.47b4da7b.js.map"
   },
   "entrypoints": [
     "static/css/main.355c3c08.css",
-    "static/js/main.44b878be.js"
+    "static/js/main.47b4da7b.js"
   ]
 }
