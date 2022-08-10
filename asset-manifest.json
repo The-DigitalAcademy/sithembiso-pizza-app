@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/sithembiso-pizza-app/static/css/main.355c3c08.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.47b4da7b.js",
-    "static/media/pizzaLeft.jpeg": "/sithembiso-pizza-app/static/media/pizzaLeft.24b07891fef1c8dae848.jpeg",
+    "main.css": "/sithembiso-pizza-app/static/css/main.3af0f682.css",
+    "main.js": "/sithembiso-pizza-app/static/js/main.b1989fe1.js",
+    "static/media/pizzawors.jpeg": "/sithembiso-pizza-app/static/media/pizzawors.e811663e179da962fa2f.jpeg",
     "static/media/pizza.avif": "/sithembiso-pizza-app/static/media/pizza.f2bcb74a70fee68eb15b.avif",
-    "static/media/vegan.jpeg": "/sithembiso-pizza-app/static/media/vegan.52cbfe9e6f8d75e18f8b.jpeg",
-    "static/media/multiplePizzas.jpeg": "/sithembiso-pizza-app/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/generic.jpeg": "/sithembiso-pizza-app/static/media/generic.3de56b8284ceec67f76e.jpeg",
     "static/media/pizzaLogo.png": "/sithembiso-pizza-app/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
-    "static/media/expensive.jpeg": "/sithembiso-pizza-app/static/media/expensive.6449ceefce083d18dfef.jpeg",
-    "static/media/pepperoni.jpeg": "/sithembiso-pizza-app/static/media/pepperoni.d173e5db8dacdf1324ed.jpeg",
-    "static/media/pineapple.jpeg": "/sithembiso-pizza-app/static/media/pineapple.a01ab9be389f0e6bd6ec.jpeg",
-    "static/media/pedrotechspecial.jpeg": "/sithembiso-pizza-app/static/media/pedrotechspecial.425951cb0e484775fd4c.jpeg",
+    "static/media/chickencram.jpeg": "/sithembiso-pizza-app/static/media/chickencram.811c69f78552933e2ed8.jpeg",
+    "static/media/dubai.jpeg": "/sithembiso-pizza-app/static/media/dubai.feffe9bb0db4a93e5d14.jpeg",
+    "static/media/vegpizza.jpeg": "/sithembiso-pizza-app/static/media/vegpizza.1e41eb248ff56b6b754d.jpeg",
+    "static/media/tripplechesse.jpeg": "/sithembiso-pizza-app/static/media/tripplechesse.0b3d017b3d424cbcfd44.jpeg",
+    "static/media/debonairspizza.jpeg": "/sithembiso-pizza-app/static/media/debonairspizza.ce5cb456e2928d5576ce.jpeg",
+    "static/media/combo5.jpeg": "/sithembiso-pizza-app/static/media/combo5.8cbde70e8c4c90350019.jpeg",
     "static/media/Triple.webp": "/sithembiso-pizza-app/static/media/Triple.c57fe0c020075754305a.webp",
+    "static/media/images.jpeg": "/sithembiso-pizza-app/static/media/images.c76133b45b677e3905b5.jpeg",
+    "static/media/chicken.jpeg": "/sithembiso-pizza-app/static/media/chicken.59b0a4defc6a5c2e38f4.jpeg",
     "index.html": "/sithembiso-pizza-app/index.html",
-    "main.355c3c08.css.map": "/sithembiso-pizza-app/static/css/main.355c3c08.css.map",
-    "main.47b4da7b.js.map": "/sithembiso-pizza-app/static/js/main.47b4da7b.js.map"
+    "main.3af0f682.css.map": "/sithembiso-pizza-app/static/css/main.3af0f682.css.map",
+    "main.b1989fe1.js.map": "/sithembiso-pizza-app/static/js/main.b1989fe1.js.map"
   },
   "entrypoints": [
-    "static/css/main.355c3c08.css",
-    "static/js/main.47b4da7b.js"
+    "static/css/main.3af0f682.css",
+    "static/js/main.b1989fe1.js"
   ]
 }
