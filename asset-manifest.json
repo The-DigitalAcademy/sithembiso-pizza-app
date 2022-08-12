@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sithembiso-pizza-app/static/css/main.3af0f682.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.b1989fe1.js",
+    "main.css": "/sithembiso-pizza-app/static/css/main.2d637031.css",
+    "main.js": "/sithembiso-pizza-app/static/js/main.c0d9f38f.js",
     "static/media/pizzawors.jpeg": "/sithembiso-pizza-app/static/media/pizzawors.e811663e179da962fa2f.jpeg",
     "static/media/pizza.avif": "/sithembiso-pizza-app/static/media/pizza.f2bcb74a70fee68eb15b.avif",
     "static/media/generic.jpeg": "/sithembiso-pizza-app/static/media/generic.3de56b8284ceec67f76e.jpeg",
@@ -16,11 +16,11 @@
     "static/media/images.jpeg": "/sithembiso-pizza-app/static/media/images.c76133b45b677e3905b5.jpeg",
     "static/media/chicken.jpeg": "/sithembiso-pizza-app/static/media/chicken.59b0a4defc6a5c2e38f4.jpeg",
     "index.html": "/sithembiso-pizza-app/index.html",
-    "main.3af0f682.css.map": "/sithembiso-pizza-app/static/css/main.3af0f682.css.map",
-    "main.b1989fe1.js.map": "/sithembiso-pizza-app/static/js/main.b1989fe1.js.map"
+    "main.2d637031.css.map": "/sithembiso-pizza-app/static/css/main.2d637031.css.map",
+    "main.c0d9f38f.js.map": "/sithembiso-pizza-app/static/js/main.c0d9f38f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3af0f682.css",
-    "static/js/main.b1989fe1.js"
+    "static/css/main.2d637031.css",
+    "static/js/main.c0d9f38f.js"
   ]
 }
