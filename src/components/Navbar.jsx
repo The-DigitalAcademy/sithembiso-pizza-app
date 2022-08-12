@@ -26,7 +26,9 @@ function Navbar() {
         <Link to="/menu"> Menu </Link>
         <Link to="/about"> About </Link>
         <Link to="/contact"> Contact </Link>
+        <button onClick={toggleNavbar}></button>
       </div>
+      
     </div>
   );
 }

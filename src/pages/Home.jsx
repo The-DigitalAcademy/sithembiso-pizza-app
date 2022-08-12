@@ -9,9 +9,11 @@ function Home() {
       <div className="headerContainer">
         <h1> S'thembiso's Pizza </h1>
         <p> PIZZA TO FIT ANY TASTE</p>
+        
         <Link to="/menu">
           <button> ORDER NOW </button>
         </Link>
+        <h2>065 388 6768</h2>
       </div>
     </div>
   );
