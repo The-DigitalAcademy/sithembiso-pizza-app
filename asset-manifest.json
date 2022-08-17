@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sithembiso-pizza-app/static/css/main.2d637031.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.c0d9f38f.js",
+    "main.css": "/sithembiso-pizza-app/static/css/main.af9d3972.css",
+    "main.js": "/sithembiso-pizza-app/static/js/main.0ff5549b.js",
     "static/media/pizzawors.jpeg": "/sithembiso-pizza-app/static/media/pizzawors.e811663e179da962fa2f.jpeg",
     "static/media/pizza.avif": "/sithembiso-pizza-app/static/media/pizza.f2bcb74a70fee68eb15b.avif",
     "static/media/generic.jpeg": "/sithembiso-pizza-app/static/media/generic.3de56b8284ceec67f76e.jpeg",
     "static/media/pizzaLogo.png": "/sithembiso-pizza-app/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
     "static/media/chickencram.jpeg": "/sithembiso-pizza-app/static/media/chickencram.811c69f78552933e2ed8.jpeg",
     "static/media/dubai.jpeg": "/sithembiso-pizza-app/static/media/dubai.feffe9bb0db4a93e5d14.jpeg",
+    "static/media/pizzaperfect.avif": "/sithembiso-pizza-app/static/media/pizzaperfect.9e199431472a332e5bef.avif",
     "static/media/vegpizza.jpeg": "/sithembiso-pizza-app/static/media/vegpizza.1e41eb248ff56b6b754d.jpeg",
     "static/media/tripplechesse.jpeg": "/sithembiso-pizza-app/static/media/tripplechesse.0b3d017b3d424cbcfd44.jpeg",
     "static/media/debonairspizza.jpeg": "/sithembiso-pizza-app/static/media/debonairspizza.ce5cb456e2928d5576ce.jpeg",
-    "static/media/combo5.jpeg": "/sithembiso-pizza-app/static/media/combo5.8cbde70e8c4c90350019.jpeg",
     "static/media/Triple.webp": "/sithembiso-pizza-app/static/media/Triple.c57fe0c020075754305a.webp",
     "static/media/images.jpeg": "/sithembiso-pizza-app/static/media/images.c76133b45b677e3905b5.jpeg",
     "static/media/chicken.jpeg": "/sithembiso-pizza-app/static/media/chicken.59b0a4defc6a5c2e38f4.jpeg",
     "index.html": "/sithembiso-pizza-app/index.html",
-    "main.2d637031.css.map": "/sithembiso-pizza-app/static/css/main.2d637031.css.map",
-    "main.c0d9f38f.js.map": "/sithembiso-pizza-app/static/js/main.c0d9f38f.js.map"
+    "main.af9d3972.css.map": "/sithembiso-pizza-app/static/css/main.af9d3972.css.map",
+    "main.0ff5549b.js.map": "/sithembiso-pizza-app/static/js/main.0ff5549b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d637031.css",
-    "static/js/main.c0d9f38f.js"
+    "static/css/main.af9d3972.css",
+    "static/js/main.0ff5549b.js"
   ]
 }
