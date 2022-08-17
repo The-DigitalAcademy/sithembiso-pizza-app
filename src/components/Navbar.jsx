@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Logo from "../assets/pizzaLogo.png";
 import { Link } from "react-router-dom";
+// import ReorderIcon from '@mui/icons-material/Reorder';
 import "../styles/Navbar.css";
 
 function Navbar() {
@@ -26,9 +27,14 @@ function Navbar() {
         <Link to="/menu"> Menu </Link>
         <Link to="/about"> About </Link>
         <Link to="/contact"> Contact </Link>
+        <button>
+          {/*   */}
+        </button>
+
+
         <button onClick={toggleNavbar}></button>
       </div>
-      
+
     </div>
   );
 }

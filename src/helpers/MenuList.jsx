@@ -2,8 +2,8 @@ import Images from "../assets/images.jpeg";
 import Triple from '../assets/Triple.webp'
 import Chickencram from "../assets/chickencram.jpeg";
 import Vegpizza from "../assets/vegpizza.jpeg";
-import Tripplechesse from "../assets/tripplechesse.jpeg";
-import Combo5 from "../assets/combo5.jpeg";
+import Triplechesse from "../assets/tripplechesse.jpeg";
+import Pizzaperfect from "../assets/pizzaperfect.avif";
 import Generic from "../assets/generic.jpeg";
 import Dubai from "../assets/dubai.jpeg";
 import Chicken from "../assets/chicken.jpeg";
@@ -32,8 +32,8 @@ export const MenuList = [
     price: 159.99,
   },
   {
-    name: "Tripplechesse Pizza",
-    image: Tripplechesse,
+    name: "Triple Pizza",
+    image: Triplechesse,
     price: 179.99,
   },
   {
@@ -42,8 +42,8 @@ export const MenuList = [
     price: 99.99,
   },
   {
-    name: "Combo5 Pizza",
-    image: Combo5,
+    name: "Pizzaperfect Pizza",
+    image: Pizzaperfect,
     price: 179.99,
   },
   {
