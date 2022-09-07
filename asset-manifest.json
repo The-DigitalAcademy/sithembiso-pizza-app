@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sithembiso-pizza-app/static/css/main.af9d3972.css",
-    "main.js": "/sithembiso-pizza-app/static/js/main.0ff5549b.js",
+    "main.css": "/sithembiso-pizza-app/static/css/main.1a4b554b.css",
+    "main.js": "/sithembiso-pizza-app/static/js/main.05632019.js",
     "static/media/pizzawors.jpeg": "/sithembiso-pizza-app/static/media/pizzawors.e811663e179da962fa2f.jpeg",
     "static/media/pizza.avif": "/sithembiso-pizza-app/static/media/pizza.f2bcb74a70fee68eb15b.avif",
     "static/media/generic.jpeg": "/sithembiso-pizza-app/static/media/generic.3de56b8284ceec67f76e.jpeg",
@@ -13,14 +13,14 @@
     "static/media/tripplechesse.jpeg": "/sithembiso-pizza-app/static/media/tripplechesse.0b3d017b3d424cbcfd44.jpeg",
     "static/media/debonairspizza.jpeg": "/sithembiso-pizza-app/static/media/debonairspizza.ce5cb456e2928d5576ce.jpeg",
     "static/media/Triple.webp": "/sithembiso-pizza-app/static/media/Triple.c57fe0c020075754305a.webp",
-    "static/media/images.jpeg": "/sithembiso-pizza-app/static/media/images.c76133b45b677e3905b5.jpeg",
+    "static/media/portlouis.jpeg": "/sithembiso-pizza-app/static/media/portlouis.c76133b45b677e3905b5.jpeg",
     "static/media/chicken.jpeg": "/sithembiso-pizza-app/static/media/chicken.59b0a4defc6a5c2e38f4.jpeg",
     "index.html": "/sithembiso-pizza-app/index.html",
-    "main.af9d3972.css.map": "/sithembiso-pizza-app/static/css/main.af9d3972.css.map",
-    "main.0ff5549b.js.map": "/sithembiso-pizza-app/static/js/main.0ff5549b.js.map"
+    "main.1a4b554b.css.map": "/sithembiso-pizza-app/static/css/main.1a4b554b.css.map",
+    "main.05632019.js.map": "/sithembiso-pizza-app/static/js/main.05632019.js.map"
   },
   "entrypoints": [
-    "static/css/main.af9d3972.css",
-    "static/js/main.0ff5549b.js"
+    "static/css/main.1a4b554b.css",
+    "static/js/main.05632019.js"
   ]
 }
