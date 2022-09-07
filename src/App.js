@@ -6,7 +6,8 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import { Routes, Route, } from "react-router-dom";
 import Footer from './components/Footer';
-import Products from './pages/Products';
+import Product from './pages/Product';
+import HomePage from "./pages/HomePage";
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
         <Route path="/menu" element={< Menu />} />
         <Route path="/about" element={< About />} />
         <Route path="/contact" element={< Contact />} />
-        <Route path="/products" element={< Products />} />
+        <Route path="/product/:id" element={< Product />} />
+        <Route path="/homepage" element={< HomePage />} />
         <Route path="/sithembiso-pizza-app" element={< Home/>} />
       </Routes>
       <Footer />
